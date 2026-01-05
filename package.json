@@ -1,0 +1,14 @@
+{
+  "name": "seiti",
+  "private": true,
+  "scripts": {
+    "frontend:install": "npm --prefix frontend install",
+    "dev:backend": "cargo run -p backend",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:backend": "cargo build -p backend",
+    "build": "npm run build:backend && npm run build:frontend",
+    "preview": "npm --prefix frontend run preview"
+  }
+}
+

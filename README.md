@@ -2,7 +2,7 @@
 
 19×19の囲碁盤面を生成し、整数計画法を用いて最適な整地パターンを探索するアプリケーションです。
 
-https://github.com/user-attachments/assets/9a8d6221-7496-40c0-8597-fd55efaf5761
+![short demo](https://github.com/user-attachments/assets/ba795b7f-75e9-4871-a9ee-fbc78fba4ef0)
 
 ## 機能
 
